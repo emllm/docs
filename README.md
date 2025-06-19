@@ -72,3 +72,20 @@ To **alternatywa dla przeglądarki i CI/CD w jednym** - zwłaszcza tam, gdzie in
 
 > EMLLM nie wymyśla koła na nowo. Po prostu montuje do niego silnik AI.
 
+--- slides:
+
+Slajd 1: Tytuł – „EMLLM – Email jako przeglądarka nowej generacji” z hasłem o historii zataczającej koło dzięki sztucznej inteligencji.
+
+Slajd 2: Perspektywę historyczną: od prostych wiadomości emailowych do współczesnych aplikacji generowanych przez LLM.
+
+Slajd 3: Porównawczą tabelę technologii – email (MIME, HTML+CSS, JS, klient pocztowy) vs. przeglądarka (HTML/DOM, WebKit/Blink).
+
+Slajd 4: Schemat działania EMLLM – od opisu potrzeby, przez generację kodu i pakowanie do .eml, aż po interakcję odbiorcy.
+
+Slajd 5: Moduł bezpieczeństwa – analiza kodu AI, sandbox, audyt, MFA, rate limiting oraz podpisy.
+
+Slajd 6: Dlaczego rozwiązanie działa – email jako zaufany, uniwersalny kanał IT, zapewniający kompletną dystrybucję aplikacji.
+
+Slajd 7: Pozycjonowanie EMLLM jako alternatywy dla przeglądarki i CI/CD, tam gdzie liczy się szybkość i prostota.
+
+Slajd 8: Podsumowanie idei, gdzie email, Markdown i HTML kryją w sobie tę samą rewolucyjną myśl.
