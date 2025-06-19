@@ -1,12 +1,13 @@
-Dziś historia zatacza koło - email, który zaczynał się od prostych wiadomości tekstowych, stał się wehikułem dla całych aplikacji w erze LLM. 
+Dziś historia zatacza koło - email, który zaczynał się od prostych wiadomości tekstowych, stał się kontenerem dla całych aplikacji dostepne w czasie sekund w erze LLM. 
 To, co dla ludzi stanowi zagrożenie bezpieczeństwa (program w emailu = potencjalny malware), dla systemów AI jest naturalną funkcjonalnością.
+
+# EMLLM - Email jako aplikacja?
+
+Email, który kiedyś był tylko komunikacją tekstową, dziś może pełnić rolę dystrybutora aplikacji podobnie jak przeglądarka.
+
 📧 Perspektywa historyczna - od pierwszego "QWERTYUIOP" do współczesnych aplikacji
 🤖 Dwoistość bug vs feature - różnica między percepcją człowieka a AI
 🔒 Wyzwania bezpieczeństwa - problemy z bezpieczeństwem aplikacji LLM i potencjalne zagrożenia Cognity
-
-# EMLLM - Email jako przeglądarka nowej generacji?
-
-**Email, który kiedyś był tylko komunikacją tekstową, dziś może pełnić rolę dystrybutora aplikacji - w sposób zaskakująco bliski temu, jak działa przeglądarka.**
 
 ### Od tekstu do aplikacji
 
